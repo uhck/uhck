@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @uhck
-- 👀 I’m a software engineer and designer in web3
-- 🌱 I’m currently learning 3d generative art and react
+- 👀 I’m a software engineer and product designer
 
 <!---
 uhck/uhck is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
