@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @uhck
-- 👀 I’m a software developer, writer, and lover of conceivable products.
+- 👋 Hi, I’m Karen!
+- 👀 I’m a microservice app builder and writer, interested in conceiving products to make life better.
 
 <!---
 uhck/uhck is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
